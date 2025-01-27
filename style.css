@@ -1,0 +1,293 @@
+body{
+margin: 0;
+
+
+
+}
+/* *{
+    outline: solid black;
+    box-sizing: border-box;
+
+
+} */
+
+.header{
+    background: #db1024;
+    width: 100%;
+    height:80px;
+    position: fixed;
+    z-index: 1000;
+}
+
+.navigation{
+     color: #fff;
+     float: left;
+     padding-left: 3px;
+     padding-top: 13px;
+     font-weight: bold;
+     font-family: Sans-serif;
+     font-size: 18px;
+     list-style-type :none;
+     margin-top: 0%;
+}
+.navigation li{
+    display: inline;
+    padding-right: 30px;
+    font-family: Sans-serif;
+}
+.logo{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    float: left;
+ }
+ .first-img{
+    width: 100%;
+    height: auto;
+    
+ }
+.second-img{
+    width: 100%;
+    height: 500px;
+    background-color: #fc0720;
+    margin-top: 10px;
+}
+.have-a-kitkat{
+    text-align: center;
+    padding-left: 620px;
+    padding-top: 30px;
+    color: #fff;
+    font-size: 1rem;
+    font-family: Sans-serif;
+    display: flex;
+}
+
+.video1{
+    width: fit-content;
+    padding-left: 250px;
+    padding-top: 60px;
+    
+}
+.coffee-img{  
+    padding-right: 290px;
+    padding-top: 60px;
+    width: fit-content;
+    float: right;
+ }
+ .third-img{
+    background-color: #fc0720;
+    width: 100%;
+    height: 650px;
+    margin-top: 15px;
+ }
+.kikat-unique-technology{
+    width: 1075px;
+    height: 20px;
+    color: #fff;
+    padding-top: 30px;
+    padding-left: 230px;
+    text-align: center;
+    font-size: 15px;
+    font-family: Sans-serif;
+}
+.img-container{
+    display: flex;
+    
+}
+.image-1{
+    width: fit-content;
+    padding-left: 130px;
+    padding-top: 100px;
+   
+}
+.unique-shape{
+    text-align: center;
+    color: #fff;
+}
+.para-1{
+    color: #fff;
+    text-align: center;
+}
+.image-2{
+    width: fit-content;
+    padding-left: 200px;
+    padding-top: 100px;
+}
+.kitkat-own-crispy{
+    text-align: center;
+    color: #fff;
+}
+.para-2{
+    text-align: center;
+    color: #fff;
+    
+}
+.image-3{
+    width: fit-content;
+    padding-left: 180px;
+    padding-top: 100px;
+}
+.crush-spread-method{
+    text-align: center;
+    color: #fff;
+}
+.para-3{
+    text-align: center;
+    color: #fff;  
+}
+.button-1{
+    background-color: #fff;
+    color: #fc0720;
+    text-align: center;
+    width: fit-content;
+    margin-left: 45px;
+    margin-top: 25px;
+    border-radius: 20px;
+    
+    
+}
+.forth-img{
+    width: 100%;
+    height: 600px;
+    background-color: #fc0720;
+    margin-top: 15px;  
+}
+.lady-img{
+    
+    padding-top: 20px;
+    padding-left: 60px;
+    width: fit-content;
+}
+.sustainability{
+    
+    color: #fff;
+    width: fit-content;
+    font-size: 20px;
+    position: relative;
+    left: 500px;
+    bottom: 400px;  
+}
+.lady-head{
+    color:#fff;
+    width: fit-content;
+    float: right; 
+}
+.lady-para{
+    color: #fff;
+    text-align: left; 
+}
+.button-2{
+    background-color: #fff;
+    color: #fc0720;
+    width: fit-content;
+}
+.fifth-img{
+    background-color: #fc0720;
+    width: 100%;
+    height: 200px;
+    margin-top: 10px;
+}
+.social-breaks{
+    width: fit-content;
+    color: #fff;
+    text-align: center;
+    padding-left: 600px; 
+    position: relative;
+    top: 40px; 
+}
+.fifth{
+    background-color: #fc0720;
+    width: 100%;
+    height: 200px;
+    margin-top: 10px;
+  }
+  .connect{
+    color: #fff;
+    font-size: 20px;
+    padding-left: 200px;
+    padding-top: 35px;
+    width: fit-content;
+    text-align: center;
+  }
+  .platform{
+    width: fit-content;
+    padding-left: 200px;
+    vertical-align: middle; 
+  }
+  .sixth{
+    background-color: #db1024;
+    width: 100%;
+    height: 200px;
+    margin-top: 2px;
+    display: flex;
+  }
+  .name-div{
+    width: 200px;
+    height: 200px;
+    margin-left: 200px;
+    color: #fff; 
+  }
+  .name{
+    color: #fff;
+    padding-top: 40px;
+  }
+  .about-div{
+    width: 200px;
+    height: 200px;
+    color: #fff;
+  }
+  .about{
+    color: #fff;
+    padding-top: 40px;
+  }
+  .campaigns-div{
+    width: 200px;
+    height: 200px;
+    color: #fff;
+  }
+  .campaigns{
+    color: #fff;
+    padding-top: 40px;
+  }
+  .footer-div{
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    display: flex;
+  }
+  .nestle{
+    width: fit-content;
+    margin-left: 130px;
+    padding-top: 20px;
+  }
+  .coppyright-div{
+    color: black;
+    margin-left: 80px;
+    padding-top: 20px;
+  }
+  .footer-lists{
+    color: black;
+    width: fit-content;
+    display: flex;
+  }
+  .footer-lists :hover{
+    text-decoration: underline;
+  }
+  .footer-list-1{
+    padding-right: 20px;
+    padding-top: 35px;
+    margin-left: 300px;
+  }
+  .footer-list-2{
+    padding-right: 20px;
+    padding-top: 35px;
+  }
+  .footer-list-3{
+    padding-right: 20px;
+    padding-top: 35px;
+  }
+  .footer-list-4{
+    padding-right: 20px;
+    padding-top: 35px;
+  }
+ 
